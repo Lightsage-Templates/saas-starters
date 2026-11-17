@@ -8,3 +8,5 @@ feature without describing the app first.
 |---|---|---|
 | `express-api` | Express 5 | Tasklane API: multi-tenant projects and members, in-memory data, header-based identity until real auth |
 | `nextjs-app` | Next.js 16 | Tasklane web app: landing, dashboard and an admin page, no sign-in yet |
+| `python-assistant` | FastAPI + OpenAI | Tasklane Assistant: an in-app chat assistant with a tool-calling loop, and support-ticket triage |
+| `node-digest` | Express 5 + OpenAI | Tasklane Digest: weekly AI summaries of each project's task changes |
